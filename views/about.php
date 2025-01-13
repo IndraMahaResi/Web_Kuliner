@@ -20,8 +20,13 @@
         }
 
         .about-container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             text-align: center;
-            padding: 50px 20px;
         }
 
         .gallery-container {
